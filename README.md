@@ -18,7 +18,7 @@ In Processing Time Analysis
    - Measure: days between application date and offer-sent date (DAX).  
    - Visuals: line charts of average processing & reply to times by month.  
    - Insight: 116 offers processed same-day; 900 replies within one day.  
-   - Screenshot: `images/processing_time.png`
+   - Screenshot: images/processing_time.png
 
 In Applicants Analysis
    - Ranking of 1st–3rd popular room types overall.  
@@ -28,11 +28,11 @@ In Applicants Analysis
      - With partner → One-bed & Two-bed units  
      - With children → Two-bed units  
      - Aboriginal → Private smaller rooms  
-   - Screenshot: `images/applicants_analysis.png
+   - Screenshot: images/applicants_analysis.png
 
 Real-Time Monitoring Dashboard
    - New DAX measures for “Available within 130 days” and “Available within 1 year.”  
    - Top table: short-term availability (next 130 days)  
    - Bottom chart: long-term availability (1 year horizon)  
    - Enables staff to identify vacancies and proactively offer waitlist spots
-   - Screenshot: `images/Realtime monitoring.png
+   - Screenshot: images/Realtime monitoring.png
