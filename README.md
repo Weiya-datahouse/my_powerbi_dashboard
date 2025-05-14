@@ -13,7 +13,9 @@ My Responsibility
 4. Real-Time Monitoring: A dashboard showing available rooms within the next 130 days and 1 year, enabling proactive waitlist offers and higher utilisation.  
 5. Academic Recognition: Project awarded Distinction (80/100) and led to an internship interview with UNSW Student Accommodation. 
 
+
 Analysis Steps
+
 In Processing Time Analysis
    - Measure: days between application date and offer-sent date (DAX).  
    - Visuals: line charts of average processing & reply to times by month.  
