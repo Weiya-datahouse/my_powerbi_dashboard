@@ -1,5 +1,4 @@
-Project Goal
-Deliver a data-driven platform that shortens processing times, improves allocation fairness for priority groups (e.g. scholarship recipients, partners) and provides staff with a transparent, real-time monitoring dashboard. 
+Project Goal: Deliver a data-driven platform that shortens processing times, improves allocation fairness for priority groups (e.g. scholarship recipients, partners) and provides staff with a transparent, real-time monitoring dashboard. 
 
 My Responsibility
 - Led a five-member team to execute full ETL on over 39 000 UNSW accommodation records (2022–2025).  
